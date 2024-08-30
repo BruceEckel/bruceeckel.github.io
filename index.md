@@ -2,4 +2,4 @@
 title: Techtonic
 ---
 
-Ideas about the future. Mostly programming.
+What does the future hold? I have some thoughts. Mostly programming.
