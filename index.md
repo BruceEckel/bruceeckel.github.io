@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Techtonic
 ---
 
 Ideas about the future. Mostly programming.
