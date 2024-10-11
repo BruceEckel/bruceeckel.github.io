@@ -12,4 +12,12 @@ This cooperation was no new thing. Hyenas cooperated with each other when they h
 
 Hyena found this deeply unsettling. It could see that people were going to start dominating the world. Although it could think deep and long about the world it was not equipped to do anything about it. It could only eat and mate and see the future.
 
-After watching and worrying as people continued to evolve their ability to cooperate, Hyena finally came up with an idea. It would plant a trick in the minds of people. This idea would cause people to battle among themselves and slow down or perhaps stop the domination of people over the world.
+After watching and worrying as people continued to evolve their ability to cooperate, Hyena went deep into the caves of the mountain, and awoke Mountain from its slumber. Hyena asked, "how can I foil people from dominating the world?" Mountain told Hyena to come back in ten years and it would give an answer.
+
+After ten years, Hyena came back. Mountain said, "There is a way, but it will extract a terrible cost from you and from people, and from the world itself." You must go away and ponder this for another ten years before I will tell you what it is.
+
+Hyena did so, all the while watching the humans and their progress. Hyena became even more convinced that humans would come to dominate the world and cause it terrible damage, perhaps even destroying the world. The cost would be worth it. And remember, all this time people were living in harmony with the world and had done nothing to hurt it.
+
+After the second ten years, Hyena went back and accepted the consequences. Mountain said that people could not be stopped, but they could be confounded and that would slow them down. Mountain told Hyena how to plant a trick in the minds of people. This idea would cause people to battle among themselves and slow down or even stop the domination of people over the world. But it was an obstacle, not a solution, and it was still possible that people would eventually understand and overcome the trick. But in the meantime it would cause great strife among people. This would not be a happy experience for anyone.
+
+Hyena was committed. "Tell me the trick!" Mountain whispered to Hyena, who was so surprised and delighted by the ridiculous idea that it broke out in laughter. "How do I convey such a ludicrous proposition?" Hyena asked. Mountain whispered some more and Hyena laughed some more. Hyena left with the new ideas filling its head.
