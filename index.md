@@ -2,8 +2,8 @@
 title: Techtonic
 ---
 
-The future? I have thoughts. Mostly programming.
+The future? I have thoughts. Often programming.
 
-(An experimental blogging solution; testing to see if it works out)
+<small>Testing this as a better blog...</small>
 
 [www.MindViewLLC.com](https://www.mindviewllc.com)
