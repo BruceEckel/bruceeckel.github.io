@@ -7,7 +7,7 @@ Over the years a number of friends have been promoted to technical management po
 Companies that use a traditional hierarchy need people at each level, and to manage technical people you need some understanding of that technology.
 What could make more sense than elevating a technical person into a management position?
 
-After a while, I hear that they get paid more but their quality of life is dramatically reduced.
+After a while, I hear that they get more pay but less quality of life.
 The extra pay is not a reward for being competent, but compensation for the loss of doing what they enjoy (technology) and the tedium of having your time wasted in bureaucratic boredom.
 
 I imagine a better version of the technical manager:
