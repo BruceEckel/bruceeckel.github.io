@@ -1,6 +1,7 @@
 ---
 title: Hyena's Curse
 date: 2024-10-11
+published: false
 ---
 In the before times, people lived in harmony with the world. They ate what they could find and sometimes this meant animals. Bigger animals would eat smaller animals, and sometimes that meant people. People also died from other things. It was not a paradise where nothing changed and nobody suffered or died, but people accepted it and lived within it and that was harmony.
 
