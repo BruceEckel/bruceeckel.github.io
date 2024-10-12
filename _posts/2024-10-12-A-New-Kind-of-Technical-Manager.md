@@ -5,10 +5,10 @@ date: 2024-10-12
 
 Over the years a number of friends have been promoted to technical management positions, often against their will.
 Companies that use a traditional hierarchy need people at each level, and to manage technical people you need some understanding of that technology.
-What could make more sense than elevating a technical person into a management position.
+What could make more sense than elevating a technical person into a management position?
 
-Most reports I have heard say that they get paid more but their quality of life is dramatically reduced.
-The extra pay is not a reward for being competent, but compensation for the pain of loss and the tedium of having your time wasted in bureaucratic boredom.
+After a while, I hear that they get paid more but their quality of life is dramatically reduced.
+The extra pay is not a reward for being competent, but compensation for the loss of doing what they enjoy (technology) and the tedium of having your time wasted in bureaucratic boredom.
 
 I imagine a better version of the technical manager:
 
@@ -18,8 +18,7 @@ I imagine a better version of the technical manager:
 * Rather than pushing a technical person into a position that requires a completely different skill set,
   *provide training*. Preferably, *everyone* should receive this training as a regular part of work, and
   those who are particularly drawn to those ideas are *discovered* rather than forced into that position.
-  If someone doesn't have an interest in the so-called *soft skills*, insisting that they do it anyway
-  doesn't benefit anyone, and certainly not the company.
+  If someone doesn't have an interest in the so-called *soft skills*, insisting that they specialize in it anyway doesn't benefit anyone, and certainly not the company.
 
 * Eliminate the time-wasting parts of management. There are lots of new ideas around this, for example:
   Every meeting should have a cost-benefit analysis. What are all the costs of this meaning: the time
@@ -37,6 +36,6 @@ I imagine a better version of the technical manager:
 
   So what kind of tasks are interruptible? Those that are not on the critical path; i.e.: research and
   experimentation. Which are the very things that would make such a promotion rewarding and attractive.
-  The more experience person in this management position is looking at new ways to make things better,
+  The more experienced person in this management position is looking at new ways to make things better,
   while at the same time solving friction problems in the team to help it move forward more quickly.
-  That's a technical manager job even *I* might find attractive.
+  That's a technical manager job even I might find attractive.
