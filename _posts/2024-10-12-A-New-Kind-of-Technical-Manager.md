@@ -12,7 +12,8 @@ The extra pay is not a reward for being competent, but compensation for the loss
 
 I imagine a better version of the technical manager:
 
-* First, let's rename it to something like *coach* or even *technical therapist*.
+* First, let's rename it to something like *coach* or *friction mitigator* or
+  even *technical therapist*.
   Something that makes it clear this isn't the management drudge of yore.
 
 * Rather than pushing a technical person into a position that requires a completely different skill set,
