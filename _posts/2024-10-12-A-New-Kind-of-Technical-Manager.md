@@ -32,11 +32,11 @@ I imagine a better version of the technical manager:
 * Finally, removing a technical person from technology is a very expensive choice for a company.
   Not only is the experience of those skills removed from the company, the experience itself stagnates.
   If the person is going to coach others, it is important that they remain engaged.
-  Eliminating bureaucratic dross returns more time to the manager, but one of the essential parts of this job is *interruptability*--the coach must be available to help people get unstuck.
-  More than planning and sprints and all that, mitigating friction things is the most important job of the manager/coach.
+  Eliminating bureaucratic dross returns more time to the manager, but an essential part of this job is *interruptability*--the coach must be available to help people get unstuck.
+  More than planning and sprints and all that, mitigating friction is the most important job of the manager/coach.
 
   So what kind of tasks are interruptible?
   Those that are not on the critical path; i.e.: research and experimentation.
   These are the very things that would make such a promotion rewarding and attractive to a technical person.
-  The job becomes looking at new ways to make things better, while at the same time solving friction problems for the team, to keep it moving forward.
+  The job becomes looking at new ways to make things better, while being available to solve friction problems for the team.
   That's a technical manager job even I might find attractive.
