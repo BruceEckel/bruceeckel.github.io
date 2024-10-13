@@ -21,21 +21,35 @@
 
         main {
             text-align: center;
+            position: relative;
+            width: 50%;
         }
 
         #errorImage {
-            width: 40%;
-            max-width: 100%;
+            width: 60%;
             height: auto;
         }
 
         #errorText {
-            font-size: 24px;
-            color: #333;
-            margin: 10px 0;
+            position: absolute;
+            top: 0%;
+            /* Adjusts the vertical position over the image */
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 32px;
+            color: white;
+            /* background-color: rgba(255, 255, 255, 0.7); */
+            /* Adds a subtle background for readability */
+            padding: 10px;
+            border-radius: 8px;
         }
 
         #errorLink {
+            position: absolute;
+            bottom: 5%;
+            /* Adjusts the vertical position near the astronaut */
+            left: 50%;
+            transform: translateX(-50%);
             font-size: 20px;
             padding: 12px;
             border: 1px solid;
@@ -43,6 +57,9 @@
             background-color: transparent;
             text-decoration: none;
             transition: all 0.5s ease-in-out;
+            background-color: rgba(255, 255, 255, 0.7);
+            /* Adds a background for better contrast */
+            border-radius: 8px;
         }
 
         #errorLink:hover,
@@ -55,9 +72,8 @@
 
 <body>
     <main>
-        <!-- Placeholder for the image -->
         <img id="errorImage" src="404.jpg" alt="404 Crash">
-        <p id="errorText">Oh! You've Crashed on an Unknown Planet!</p>
+        <p id="errorText">You've Crashed on an Unknown Planet!</p>
         <a id="errorLink" href="/">There's No Place Like Home...</a>
     </main>
 </body>
