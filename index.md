@@ -1,7 +1,7 @@
 ---
 title: Techtonic
 ---
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 The future? I have thoughts. Often programming.<br>
 <span style="font-size: 11px;">Testing this as a better blog...</span>
 
