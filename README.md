@@ -2,3 +2,9 @@
 2. The new post appears in the `_posts` directory.
 3. Edit it there and push to the repo.
 4. The results appear in a minute or so, after Github Actions runs.
+
+## Making The Favicon
+
+* Install **ImageMagick**
+
+* `magick RocketForFavicon.webp -resize 64x64 favicon.ico`
