@@ -6,5 +6,5 @@ title: Techtonic
 </head>
 The future? I have thoughts. Often programming.<br>
 <span style="font-size: 11px;">Testing this as a better blog...</span>
-
+<img src="RocketForFavicon.webp">
 [www.MindViewLLC.com](https://www.mindviewllc.com)
