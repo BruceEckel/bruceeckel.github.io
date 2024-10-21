@@ -7,5 +7,5 @@ title: Techtonic
 <p>
   <img src="RocketForFavicon-transformed.webp" style="width: 12%; float: left; margin-right: 10px;">
   The future? I have thoughts. Often programming.<br>
-  <a href = "https://www.mindviewllc.com/">www.MindViewLLC.com</a><br>
+  <a href = "https://www.mindviewllc.com/">www.MindViewLLC.com</a><br><br><br>
 </p>
