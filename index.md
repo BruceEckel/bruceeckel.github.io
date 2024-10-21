@@ -5,7 +5,7 @@ title: Techtonic
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
 <p>
-  <img src="RocketForFavicon.webp" style="width: 25%; float: left; margin-right: 10px;">
+  <img src="RocketForFavicon.png" style="width: 12%; float: left; margin-right: 10px;">
   The future? I have thoughts. Often programming.<br>
   <span style="font-size: 11px;">Testing this as a better blog...</span>
 </p>
