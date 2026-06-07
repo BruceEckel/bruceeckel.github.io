@@ -49,8 +49,7 @@ A problem I've never seen considered in the social sciences is the effect of the
 Ironically, *Homo Economicus* posits a person who acts only in self-interest, which is basically the definition of a narcissist.
 Yet a model that makes everyone *Homo Economicus* is thrown into complete disarray when *Homo Narcissus* shows up, so economics pretends they don't exist.
 But statistically they do.
-It might be one in twenty or one in a hundred, but they show up.
-And when they do, they can ruin everything.
+The last I heard, dark personality types are about ten percent of the population.
 
 Most people have experienced this: you have a group that works well because everyone trusts each other.
 Now a *Homo Narcissus* appears and suddenly you can no longer trust others' motivations.
